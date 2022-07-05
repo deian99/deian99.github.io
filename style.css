@@ -1,0 +1,58 @@
+#wrapper {
+    margin-top: 50px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#card {
+    width: 85%;
+    padding: 5px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+}
+
+#contactInfo {
+    display: block;
+    
+}
+
+#jobCard {
+    background-color: black;
+}
+
+#jobTitle {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#jobLink {
+    color: darkgreen;
+    font-weight: 550;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#jobDesc {
+    color: black;
+    font-size: 18px;
+    font-weight: 550;
+    padding: 5px;
+}
+#wrapperTitle {
+    font-size: 36px;
+    font-weight: 550;
+    padding: 10px;
+}
+
+#wrapperDescription {
+    font-size: 24px;
+    padding: 10px;
+}
+
+#jobImage {
+    width: 50%;
+    border: 2px solid lightgrey;
+    padding: 5px;
+}
